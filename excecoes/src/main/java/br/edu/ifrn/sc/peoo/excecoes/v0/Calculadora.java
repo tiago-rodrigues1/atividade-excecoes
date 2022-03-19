@@ -1,3 +1,8 @@
+/*
+ * Gabrielly Beatriz
+ * Tiago Rodrigues
+*/
+
 package br.edu.ifrn.sc.peoo.excecoes.v0;
 
 public class Calculadora {

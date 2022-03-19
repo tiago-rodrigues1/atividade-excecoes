@@ -1,4 +1,9 @@
-package br.edu.ifrn.sc.peoo.excessoes.v1;
+/*
+ * Gabrielly Beatriz
+ * Tiago Rodrigues
+*/
+
+package br.edu.ifrn.sc.peoo.excecoes.v1;
 
 public class TesteCalculadora {
 
