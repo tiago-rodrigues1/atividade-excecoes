@@ -1,4 +1,4 @@
-package br.edu.ifrn.sc.peoo.excessoes.v1;
+package br.edu.ifrn.sc.peoo.excecoes.v1;
 
 public class Calculadora {
 
@@ -7,8 +7,7 @@ public class Calculadora {
             int quosciente = dividendo / divisor;
             return quosciente;
         } catch (ArithmeticException ex) {
-            System.out.println("[ERRO] Não é possível dividir por 0");
-            return 0;
+            return Integer.MIN_VALUE;
         }
     }
 }

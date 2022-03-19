@@ -1,4 +1,4 @@
-package br.edu.ifrn.sc.peoo.excessoes.v1;
+package br.edu.ifrn.sc.peoo.excecoes.v1;
 
 public class TesteCalculadora {
 
